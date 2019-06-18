@@ -1,0 +1,9 @@
+Software Requirements:
+1. Python3.5
+2. librosa
+3. dtw
+4. matplotlib
+5. numpy
+6. plotly
+
+preprocessed data are not included in the folder.
